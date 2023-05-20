@@ -10,8 +10,8 @@ Reposiório de GitHub contendo os resultados da hiperparametrização utilizados
 ```
 ├── README.md
 │
-├── Resultados originais    <- Resultados obtidos antes da junção dos treinos que 
-|                              foram realizados em partes
+├── Resultados originais    <- Resultados obtidos antes da junção dos resultados dos modelos 
+|                              que foram treinados em por partes
 |
 └── Resultados agrupados    <- Resultados agrupados por tipo de variável
      ├── Baseline (Naive Bayes)   <- Naive Bayes separado dos restantes modelos
