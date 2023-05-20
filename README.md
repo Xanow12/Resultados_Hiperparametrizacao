@@ -1,5 +1,9 @@
 # Resultados da Hiperparametrização
+Autor: Alexandre Freira
 
+## Descrição
+
+Reposiório de GitHub contendo os resultados da hiperparametrização utilizados. Apenas se encontram os parâmetros e respetivas métricas obtidas por cada modelo para garantir a privacidade dos dados dos participantes presentes na base de dados utilizada.
 
 ## Estrutura do repositório
 
