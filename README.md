@@ -1,5 +1,9 @@
 # Resultados da Hiperparametrização
 
+
+## Estrutura do repositório
+
+```
 ├── README.md
 │
 ├── Resultados originais    <- Resultados obtidos antes da junção dos treinos que 
@@ -11,3 +15,4 @@
      ├── Hosp Duration            <- Duração da hospitalização
      ├── Hosp Reason              <- Motivo da hospitalização
      └── Hosp                     <- Risco de hospitalizaçãp
+```
